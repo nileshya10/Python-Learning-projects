@@ -17,4 +17,4 @@ oh!
 yes this is the link of the course from where I learned python from, check it out 
 
 
-(click here)[https://www.udemy.com/course/100-days-of-code/?srsltid=AfmBOopTYW40-pU46wVUOtN20PGBSwzMiregYZKmBSWFbf-A_4EgqRPi&couponCode=KEEPLEARNING]
+[click here](https://www.udemy.com/course/100-days-of-code/?srsltid=AfmBOopTYW40-pU46wVUOtN20PGBSwzMiregYZKmBSWFbf-A_4EgqRPi&couponCode=KEEPLEARNING)
